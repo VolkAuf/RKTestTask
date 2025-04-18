@@ -1,0 +1,4 @@
+.customButton {
+  color: var(--dark-main-color);
+  min-height: 3rem;
+}
